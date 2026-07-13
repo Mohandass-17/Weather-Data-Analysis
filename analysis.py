@@ -1,6 +1,6 @@
 import pandas as pd
 #Reading the csv file
-df=pd.read_csv('1. Weather Data.csv')
+df=pd.read_csv('Dataset Name')
 
 df
 
